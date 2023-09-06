@@ -1,0 +1,31 @@
+Single-server queueing system
+
+Mean interarrival time       1.429 minutes
+
+Mean service time            1.000 minutes
+
+Mean service time            1.000 minutes
+
+Mean service time            1.000 minutes
+
+Mean service time            1.000 minutes
+
+Number of customers         300000
+
+
+Mean system delay Node 1          2.3316
+
+
+
+Mean system delay Node 2          2.2897
+
+
+
+Mean system delay Node 3          2.3117
+
+
+
+Mean system delay Node 4          2.3239
+
+
+Time simulation ended   428893.719 minutes
