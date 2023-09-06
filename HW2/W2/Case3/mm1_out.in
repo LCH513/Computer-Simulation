@@ -1,0 +1,12 @@
+Two-server queueing system
+
+Mean interarrival time      0.200 minutes
+
+Mean service time           1.000 minutes
+
+Number of customers         10000
+
+Mean queueing delay in the first queue	4092.321289 minutes
+
+Mean queueing delay in the second queue	  49.318638 minutes
+
