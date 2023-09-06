@@ -1,1 +1,1 @@
-M/M/1 queueing system by Linklist and Array
+M/M/1 queueing system by Linked lists and Array
